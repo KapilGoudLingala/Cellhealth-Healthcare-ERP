@@ -45,6 +45,14 @@ Each encounter progresses through **18+ controlled workflow states**, ensuring t
 
 ---
 
+## Live System
+Live deployment (authentication required):  
+https://erp.cellhealthclinics.com/app/home
+
+> Access is restricted to authorized users. Credentials are not shared.
+
+---
+
 ## Author
 **Kapil Goud Lingala**  
 Python Developer | Frappe & ERPNext Consultant  
